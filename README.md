@@ -10,6 +10,8 @@ This project simulates a **real-world data analyst workflow**:
 - KPI generation
 - Business-focused Power BI dashboard
 
+# 🔗 Live Dashboard
+## ➡️ Power BI Report Link: https://github.com/Tanisha-Kanchan12/Pizza-Sales-Analysis-SQL-PowerBI/blob/main/pizza%20analysis.pbix
 
 # 🛠 Tools & Technologies Used
 - **SQL (PostgreSQL / SQL Server style queries)**
